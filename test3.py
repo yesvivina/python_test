@@ -10,3 +10,8 @@ b = 100
 """
  echo 1111;
 """
+# 1：
+#！/usr/bin/env python  # linux 下特殊注释
+#！/usr/bin/python
+# 2
+#  encoding=utf-8
